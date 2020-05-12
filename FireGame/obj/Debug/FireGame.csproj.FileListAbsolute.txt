@@ -1,0 +1,11 @@
+C:\Users\develop\Desktop\FireGame\FireGame\bin\Debug\FireGame.exe.config
+C:\Users\develop\Desktop\FireGame\FireGame\bin\Debug\FireGame.exe
+C:\Users\develop\Desktop\FireGame\FireGame\bin\Debug\FireGame.pdb
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.csprojAssemblyReference.cache
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.Form1.resources
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.Properties.Resources.resources
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.csproj.GenerateResource.cache
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.csproj.CoreCompileInputs.cache
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.exe
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.pdb
+C:\Users\develop\Desktop\FireGame\FireGame\obj\Debug\FireGame.Form2.resources
